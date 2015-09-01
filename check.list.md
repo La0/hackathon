@@ -23,6 +23,7 @@ J - 30
 - [ ] Check install electrique et réseau, commande du matériel manquant
   (switches, AP Wifi, rallonges, etc.).
 - [ ] Composer jury.
+- [ ] Définir système de notation et de classement.
 - [ ] Commander 40 Psychedelia.
 
 J - 15
