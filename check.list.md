@@ -40,6 +40,7 @@ J - 2
 -----
 - [ ] Réserver pizzas / junk food pour D midi et soir, D+1 midi.
 - [ ] Acheter ravito: petit déj, bières, softs, bouffe.
+- [ ] Stocker matériel et ravito dans les locaux.
 
 J - 1
 -----
