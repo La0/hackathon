@@ -5,7 +5,10 @@ Hackathon Check List
 
 J - ?
 -----
-- [ ] Fixer une date.
+- [x] Fixer une date.  
+  Week-end Halloween.
+- [x] Fixer un thème.  
+  RFID/NFC/iBeacon.
 
 J - 40
 ------
