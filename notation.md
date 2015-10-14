@@ -17,6 +17,6 @@ En cas d'égalité, la majorité absolue décide.
 
 L'aspect fonctionnel a un fort coefficient pour forcer à produire quelque
 chose. Une présentation sans rien de concret derrière ne devrait jamais gagner
-face à un produit fonctionnel (ça c'est vu).
+face à un produit fonctionnel (ça s'est vu).
 
 Prévoire des tomates pour ceux qui ne rendent rien ?
